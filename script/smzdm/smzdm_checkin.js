@@ -1,4 +1,4 @@
-const zhiyouRegex = /^https?:\/\/zhiyou\.smzdm\.com\/user$/;
+const zhiyouRegex = /^https?:\/\/zhiyou\.smzdm\.com\/user/;
 const appLoginRegex = /^https?:\/\/user-api\.smzdm\.com\/user_login\/normal$/;
 const smzdmCookieKey = 'smzdm_cookie';
 const smzdmSessionKey = 'smzdm_session';
